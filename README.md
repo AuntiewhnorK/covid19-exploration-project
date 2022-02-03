@@ -1,8 +1,7 @@
 # covid19-exploration-project
 Exploration and Visualization of COVID-19 Data across the world
 
-
-This project uses SQL to explore COVID-19 deaths and vaccinations in different countries. The data I used is updated daily in real time. Queries include finding the highest death count per population, calculating global statistics, and finding a rolling sum of people vaccinated. At the end of the exploration, I create two views for later visualization in Tableau. The first sql file is my inital exploration, and the subsequent files are queries where I take the output and create Tableau visualizations (links below).
+This project uses SQL to explore COVID-19 deaths and vaccinations in different countries. The data I used is updated daily in real time. Queries include finding the highest death count per population, calculating global statistics, and finding a rolling sum of people vaccinated. At the end of the exploration, I create two views for later visualization in Tableau. The first sql file is my inital exploration, and the subsequent files are queries where I take the output and create [Tableau visualizations](https://public.tableau.com/app/profile/auntiewhnor.kpolie/viz/COVID-19Statistics_16416947284310/Dashboard1).
 
 ## Data
 
