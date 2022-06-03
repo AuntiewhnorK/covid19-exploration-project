@@ -18,4 +18,4 @@ This project uses SQL to explore COVID-19 deaths and vaccinations in different c
 
 ## Project Status
 
-On-going
+Completed
